@@ -1,0 +1,31 @@
+# Protocol Concept
+
+## Goal
+Make keeping animals alive economically more attractive than slaughter.
+
+## Core idea
+Animal owners receive recurring payments for verifiable proof that their animals remain alive.
+Payments stop permanently upon slaughter.
+
+## Proof of Life (MVP)
+- Monthly short video of the animal
+- Video must include:
+  - visible animal
+  - current date (spoken or written)
+- Manual verification by independent validators
+
+## Economic model
+- Owners earn more by keeping animals alive long-term
+- Payments are competitive with local slaughter profits
+- A small dynamic protocol fee (1–2%) sustains infrastructure and verification
+
+## Fraud prevention
+- Random audits
+- Validator accountability
+- Permanent removal upon confirmed fraud
+
+## Scope limitations
+- One animal type
+- One region
+- No automation
+- No token issuance
