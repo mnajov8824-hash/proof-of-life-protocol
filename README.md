@@ -32,3 +32,11 @@ Slaughter permanently stops payments.
 
 ## Status
 MVP – early stage.
+
+---
+
+## Documentation
+
+- 📘 [Economic Model](economic-model.md)
+- 🧪 [Verification Mechanism](verification.md)
+- 🛣️ [Roadmap](roadmap.md)
